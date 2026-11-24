@@ -1,0 +1,7 @@
+agent-framework
+agent-framework-foundry
+azure-ai-projects
+azure-identity
+debugpy
+openai
+python-dotenv
